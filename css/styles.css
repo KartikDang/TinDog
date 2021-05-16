@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+
+
+#title{
+    margin: 0;
+    background-color: #ff4c68;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+.col-lg-6 h1{
+    font-family: "Montserrat";
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.5;
+    color: White;
+}
+
+.col-lg-6 img{
+    transform: rotate(25deg);
+}
+
+.row{
+    margin-top: 15%;
+}
+
+.navbar-brand span{
+    font-size: 3rem;
+    font-weight: 500;
+}
+
+.nav-link span{
+    font-size: x-large;
+}
+
+#features{
+    
+    max-width: 80%; 
+    text-align: center;
+    margin: auto;
+
+}
+
+.col-lg-4 h3{
+    font-family:"Montserrat" ;
+    font-weight: 900;
+}
+
+#outer{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 3%;
+    margin: auto;
+}
+
+.carousel-item img{
+    width: 15%;
+    border-radius: 50%;
+}
+
+#testimonials{
+    color: white;
+    padding: 2%;
+}
+
+.carousel-inner{
+    padding: 5%;
+    margin: auto;
+    font-family:"Montserrat";
+    width: 70%;
+}
+
+.carousel-item h2{
+    font-family:"Montserrat";
+    font-size: 50px;
+    font-weight: 700;
+    padding-bottom: 2%;
+}
+
+#press img{
+    margin: 2%;
+    
+}
+
+#pricing{
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+
+#head{
+    font-family:"Montserrat";
+    margin-top: 6%;
+}
+
+#head h2{
+    font-size: 50px;
+    font-weight: 700;
+}
+
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 7%;
+    color: white;
+    
+}
+
+#cta h3{
+    font-family:"Montserrat";
+    font-size: 3.5rem;
+    font-weight: 800;
+    padding-bottom: 6%;
+}
+
+#in{
+    width: 80%;
+    margin: auto;
+}
+
+.lower_btn{
+    margin: 1%;
+}
+
+#footer{
+    text-align: center;
+    margin-top: 5%;
+}
+
+#footer i{
+    margin: 0.7%;
+}
